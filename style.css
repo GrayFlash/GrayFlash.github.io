@@ -10,9 +10,13 @@ header {
     top: 0;
     left: 0;
     right: 0;
-    height: 50px;
-    line-height: 50px;
-    background-color: gray;
+    height: 100px;
+    line-height: 100px;
+    background-color: lightgray;
+}
+
+header .nav-img {
+    height: 100px;
 }
 
 header * {
