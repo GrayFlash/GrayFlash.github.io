@@ -32,7 +32,7 @@ header li {
     margin-left: 20px;
 }
 
-a{
+a {
     text-decoration: none;
     color: black;
     font-size: large;
@@ -44,6 +44,22 @@ section {
     justify-content: center;
     align-items: center;
     text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: larger;
+}
+
+p {
+    text-align: left;
+}
+
+.techStack {
+    display : inline;
+    align-content: unset;
+}
+
+li {
+    text-align: left;
 }
 
 #home .profile-img {
@@ -57,7 +73,7 @@ footer {
     background-color: lightgray;
 }
 
-#home {
+/* #home {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');
 }
 
@@ -67,4 +83,4 @@ footer {
 
 #contact {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/canyon.jpg');
-}
+} */
