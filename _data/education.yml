@@ -1,10 +1,9 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
-  
-- course: Pre Fellowship Fellow
-  institute: MLH Fellowship
-  dates: Summer 2021
+- course: B.Tech Electronics & Communication Engineering
+  institute: Sardar Vallabhbhai National Institute of Technology, Surat
+  dates: 2019 - 2023
+  logo: svnit.jpg
+
+- course: Prep Fellowship
+  institute: Major League Hacking
+  dates: 2021
   logo: fellowship.svg
-  
